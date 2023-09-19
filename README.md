@@ -35,17 +35,9 @@ from the terminal prompt line by typing ```python main.py```
 ### Execution
 
 - Click on ```http://127.0.0.1:8012``` link to open in the browser. You can also copy and past the link.
-You will see something of the form
-
-| <img src="./browser-screen-1.png"> |
-| :---: |
-| __Simple Execution__ |
-
 
 - Accessing the URL ```http://0.0.0.0:8012/docs``` will navigate to the [OpenAPI](https://www.openapis.org/)
 page/documentation for the application.
-
-
 
 - You have completed the first part of the initial assignment.
 
